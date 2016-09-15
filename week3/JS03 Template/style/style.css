@@ -78,7 +78,7 @@
 	color: #999;
 	border: none;
 	border-radius: 2px;
-	/*text-transform: capitalize;*/
+	text-transform: capitalize;
 	margin:10px 5px;
 	background:#e7e5e3;
 }
