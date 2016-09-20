@@ -44,7 +44,7 @@ function getWeather() {
 		dataType: "jsonp",
 
 		success: function(response) {
-			// console.log(response);
+			console.log(response);
 			loadWeather(response);
 		},
 
